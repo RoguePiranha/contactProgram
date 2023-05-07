@@ -14,7 +14,7 @@ To develop this contact management system, I used the following tools:
 - https://www.onlinegdb.com/online_c++_compiler/ for compiling and running the code
 - Git for version control and code management
 
-The project is written in C++ and relies on the standard C++ libraries, including <iostream>, <string>, and <map>.
+The project is written in C++ and relies on the standard C++ libraries, including _iostream_, _string_, and _map_.
 
 ## Useful Websites
 
