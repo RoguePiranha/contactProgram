@@ -18,8 +18,6 @@ The project is written in C++ and relies on the standard C++ libraries, includin
 
 ## Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [W3 Schools - C++](https://www.w3schools.com/cpp/)
 - [LearnCPP](https://www.learncpp.com/)
 
