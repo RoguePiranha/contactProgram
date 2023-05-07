@@ -2,8 +2,6 @@
 
 In this project, I developed a simple yet effective command-line application that serves as a contact management system. The application allows users to store and manage their contacts by adding, viewing, and updating contact information such as names and phone numbers. As a software engineer, my aim was to deepen my understanding of C++ language concepts, object-oriented programming, and data structures like maps, while also creating a functional and useful tool.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](https://www.loom.com/share/bef9fd3b5e854b9ab07239e5d0637f03)
 
 ## Development Environment
