@@ -1,11 +1,8 @@
 #include "contact.h"
 
 // Default constructor implementation
-Contact::Contact()
+Contact::Contact() : name(""), phone("")
 {
-    // Initialize the name and phone attributes with default values
-    name = "";
-    phone = "";
 }
 
 // Constructor implementation

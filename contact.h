@@ -7,12 +7,8 @@ class Contact
 {
 public:
     // Default constructor implementation
-    Contact()
-    {
-        // Initialize the name and phone attributes with default values
-        name = "";
-        phone = "";
-    }
+    Contact(); // Default constructor
+    
     // Constructor to initialize the contact object
     Contact(const std::string &name, const std::string &phone);
 
